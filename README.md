@@ -1,4 +1,3 @@
-# Visualization-of-Excelerate-Dataset
 
 # Data Visualization Project - Excelerate Internship
 
